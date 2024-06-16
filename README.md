@@ -8,8 +8,10 @@ If you dont know much about the 6502 CPU and its derivatives, they power some co
   - BBC Micro
   - etc 
 
-- Trying to learn how a CPU functions by emulating one myself 
-- Would be a good idea to implement
+
+Trying to learn how a CPU functions by emulating one myself 
+
+Would be a good idea to implement
   - unit tests (near future)
   - handle decimal mode
   - illegal opcodes
