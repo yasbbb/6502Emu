@@ -25,7 +25,6 @@ Would be a good idea to implement
 
 References:<br>
 https://en.wikibooks.org/wiki/6502_Assembly <br>
-https://skilldrick.github.io/easy6502 <br>
 http://www.6502asm.com/beta/index.html <br>
 https://www.masswerk.at/6502/assembler.html <br>
 https://www.masswerk.at/6502/disassembler.html <br>
