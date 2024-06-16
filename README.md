@@ -1,8 +1,8 @@
 # 6502-CPU
 Emaulation of the original 6502 processor without interrupt handling
 
-was trying to learn how a CPU functions by emulating one myself
-still need to implement unit tests and handle decimal mode 
+was trying to learn how a CPU functions by emulating one myself 
+<br> still need to implement unit tests and handle decimal mode </br>
 
 
 
